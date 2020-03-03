@@ -1,0 +1,8 @@
+node_modules
+cypress/fixtures/
+cypress/videos
+cypress/screenshots
+results
+.vscode
+.idea
+.git

@@ -1,0 +1,12 @@
+{
+  "name": "cypresshill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^4.1.0"
+  }
+}
