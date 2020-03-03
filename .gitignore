@@ -1,5 +1,5 @@
 node_modules
-cypress/fixtures/
+cypress/fixtures/*.json
 cypress/videos
 cypress/screenshots
 yarn-error.log
