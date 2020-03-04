@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cy": "cypress open"
+    "cy": "cypress open",
+    "cy:run" : "cypress run --spec 'cypress/integration/our-project/*' --record --key 07d7d040-2821-44ab-83b6-1a23ebf1ed14"
+
   },
   "devDependencies": {
     "cypress": "^4.1.0"
